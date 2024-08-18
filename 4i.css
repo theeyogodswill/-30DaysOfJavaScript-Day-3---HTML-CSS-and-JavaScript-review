@@ -1,0 +1,17 @@
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.cartbutton{
+    background-color: #ffff00;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.buybutton{
+    background-color: #ffa500;
+    border: 1px solid #000;
+    cursor: pointer;
+}
